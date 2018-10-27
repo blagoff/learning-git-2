@@ -1,0 +1,118 @@
+* [33mcommit 6d81b82[m[33m ([m[1;36mHEAD -> [m[1;32mtask-4[m[33m)[m
+[31m|[m Author: Przemyslaw Przewoznik <blagoff88@gmail.com>
+[31m|[m Date:   Sat Oct 27 12:15:06 2018 +0200
+[31m|[m 
+[31m|[m     task-4 finished
+[31m|[m   
+*   [33mcommit a53c86d[m
+[32m|[m[33m\[m  Merge: fa16979 e2be98a
+[32m|[m [33m|[m Author: Przemyslaw Przewoznik <blagoff88@gmail.com>
+[32m|[m [33m|[m Date:   Sat Oct 27 00:49:07 2018 +0200
+[32m|[m [33m|[m 
+[32m|[m [33m|[m     HEJ
+[32m|[m [33m|[m 
+[32m|[m * [33mcommit e2be98a[m[33m ([m[1;32mtester[m[33m)[m
+[32m|[m [33m|[m Author: Przemyslaw Przewoznik <blagoff88@gmail.com>
+[32m|[m [33m|[m Date:   Sat Oct 27 00:43:51 2018 +0200
+[32m|[m [33m|[m 
+[32m|[m [33m|[m     TESTESTER
+[32m|[m [33m|[m 
+* [33m|[m [33mcommit fa16979[m[33m ([m[1;32mprzemek[m[33m)[m
+[33m|[m [33m|[m Author: Przemyslaw Przewoznik <blagoff88@gmail.com>
+[33m|[m [33m|[m Date:   Sat Oct 27 00:38:00 2018 +0200
+[33m|[m [33m|[m 
+[33m|[m [33m|[m     TEST
+[33m|[m [33m|[m 
+* [33m|[m [33mcommit 4dc576b[m
+[33m|[m[33m/[m  Author: Przemyslaw Przewoznik <blagoff88@gmail.com>
+[33m|[m   Date:   Sat Oct 27 00:29:02 2018 +0200
+[33m|[m   
+[33m|[m       konflikt
+[33m|[m   
+*   [33mcommit f77a518[m
+[34m|[m[35m\[m  Merge: 2778b7f 4fadadf
+[34m|[m [35m|[m Author: Przemyslaw Przewoznik <blagoff88@gmail.com>
+[34m|[m [35m|[m Date:   Fri Oct 26 23:31:36 2018 +0200
+[34m|[m [35m|[m 
+[34m|[m [35m|[m     OK
+[34m|[m [35m|[m 
+[34m|[m * [33mcommit 4fadadf[m[33m ([m[1;32mdevKasia[m[33m)[m
+[34m|[m [35m|[m Author: Przemyslaw Przewoznik <blagoff88@gmail.com>
+[34m|[m [35m|[m Date:   Fri Oct 26 23:08:34 2018 +0200
+[34m|[m [35m|[m 
+[34m|[m [35m|[m     Change title
+[34m|[m [35m|[m 
+* [35m|[m [33mcommit 2778b7f[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+[35m|[m [35m|[m Author: Przemyslaw Przewoznik <blagoff88@gmail.com>
+[35m|[m [35m|[m Date:   Fri Oct 26 23:07:26 2018 +0200
+[35m|[m [35m|[m 
+[35m|[m [35m|[m     Change title
+[35m|[m [35m|[m 
+* [35m|[m [33mcommit a72551b[m
+[35m|[m[35m/[m  Author: Przemyslaw Przewoznik <blagoff88@gmail.com>
+[35m|[m   Date:   Fri Oct 26 23:06:42 2018 +0200
+[35m|[m   
+[35m|[m       Change title
+[35m|[m   
+*   [33mcommit 43c4827[m
+[36m|[m[1;31m\[m  Merge: a9abbfb d937e9b
+[36m|[m [1;31m|[m Author: Przemyslaw Przewoznik <blagoff88@gmail.com>
+[36m|[m [1;31m|[m Date:   Fri Oct 26 22:50:06 2018 +0200
+[36m|[m [1;31m|[m 
+[36m|[m [1;31m|[m     Merge branch 'devKasia'
+[36m|[m [1;31m|[m 
+[36m|[m * [33mcommit d937e9b[m
+[36m|[m [1;31m|[m Author: Przemyslaw Przewoznik <blagoff88@gmail.com>
+[36m|[m [1;31m|[m Date:   Fri Oct 26 22:39:58 2018 +0200
+[36m|[m [1;31m|[m 
+[36m|[m [1;31m|[m     Kasia first commit
+[36m|[m [1;31m|[m 
+* [1;31m|[m [33mcommit a9abbfb[m
+[1;31m|[m[1;31m/[m  Author: Przemyslaw Przewoznik <blagoff88@gmail.com>
+[1;31m|[m   Date:   Fri Oct 26 22:32:42 2018 +0200
+[1;31m|[m   
+[1;31m|[m       Add developer Tadek
+[1;31m|[m 
+* [33mcommit f5c81e1[m
+[1;31m|[m Author: Przemyslaw Przewoznik <blagoff88@gmail.com>
+[1;31m|[m Date:   Fri Oct 26 22:27:34 2018 +0200
+[1;31m|[m 
+[1;31m|[m     New developer
+[1;31m|[m 
+* [33mcommit fc73cb9[m[33m ([m[1;33mtag: task-3-finished[m[33m, [m[1;33mtag: 'task-3-finished'[m[33m)[m
+[1;31m|[m Author: Przemyslaw Przewoznik <blagoff88@gmail.com>
+[1;31m|[m Date:   Wed Oct 24 20:32:35 2018 +0200
+[1;31m|[m 
+[1;31m|[m     ADD STYLE
+[1;31m|[m 
+* [33mcommit 58fb67c[m
+[1;31m|[m Author: blagoff <blagoff88@gmail.com>
+[1;31m|[m Date:   Wed Oct 24 20:02:50 2018 +0200
+[1;31m|[m 
+[1;31m|[m     Update index.html
+[1;31m|[m     
+[1;31m|[m     SECOND
+[1;31m|[m 
+* [33mcommit 6f20904[m
+[1;31m|[m Author: Przemyslaw Przewoznik <blagoff88@gmail.com>
+[1;31m|[m Date:   Wed Oct 24 19:59:35 2018 +0200
+[1;31m|[m 
+[1;31m|[m     FIRST
+[1;31m|[m 
+* [33mcommit d1bf37a[m
+[1;31m|[m Author: blagoff <blagoff88@gmail.com>
+[1;31m|[m Date:   Wed Oct 24 19:30:39 2018 +0200
+[1;31m|[m 
+[1;31m|[m     Create README.md
+[1;31m|[m 
+* [33mcommit c4afacc[m
+[1;31m|[m Author: blagoff <blagoff88@gmail.com>
+[1;31m|[m Date:   Wed Oct 24 19:30:14 2018 +0200
+[1;31m|[m 
+[1;31m|[m     Delete README.md
+[1;31m|[m 
+* [33mcommit 047b6ce[m
+  Author: blagoff <blagoff88@gmail.com>
+  Date:   Wed Oct 24 19:18:44 2018 +0200
+  
+      Initial commit
