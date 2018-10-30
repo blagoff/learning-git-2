@@ -1,0 +1,17 @@
+.foo {
+    p {
+        font-weight:bold;
+    }
+    small {
+        font-size: 8px;
+
+        &:hover {
+            color: red;
+        }
+    }
+}
+
+.test {
+	display: flex;
+	flex-wrap: wrap;
+}
